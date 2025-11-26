@@ -1,5 +1,5 @@
 # StudyHub_Eva2
-Desarrollar una aplicación móvil para la evaluación 2.
+Desarrollar una aplicación móvil.
 Integrantes: Martina Flores y Benjamin Quezada
 
 # Descripcion del Proyecto
