@@ -15,4 +15,14 @@ La aplicacion contiene las diguientes funcionalidades clave que ayudan a la logi
 # Endpoints Utilizados
 La aplicacion contiene una API REST que permite generar qr de forma automatica guardando la informacion clave (id de la sala, email, inicio y fianal). Permitiendo que al momento de que la persona ingrese al resinto muestre el qr permitiendo un ingreso mas seguro y eficaz.
 
+# Pasos para ejecutar
+Para que el flujo de la aplicacion sea correcro se deben seguir una serie de pasos. Al inhresar a la pagina aparecera un welcome que te permite acceder a las funcionalidades de la aplicacion.
+
+1. Inicio de Sesion Y Registro: Se podar visualizar un login o registro. El usuario accedera al apartado dependiendo su caso pero al momento de resgistrase te pedira iniciar sesion.
+2. Home: Se visualiza un home que muestra las salas que pueden reservar. Permitiendo escoger la de tu preferencia.
+3. Reservacion: Al momento de escoger la sala podras escoger dia, hora y las horas que seservaras. Ya al momento de reservar aparecera un QR que se debera sacar pantallazo para el momento de ingresar a la empresa sera solicitado.
+
+# Captura del APK firmado y .jks
+<img width="519" height="142" alt="image" src="https://github.com/user-attachments/assets/1e6a51ac-de49-4c2b-9e57-d961acce6d56" />
+
 
