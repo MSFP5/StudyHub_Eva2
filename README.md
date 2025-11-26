@@ -25,5 +25,5 @@ Para que el flujo de la aplicacion sea correcro se deben seguir una serie de pas
 # Captura del APK firmado y .jks
 <img width="519" height="142" alt="image" src="https://github.com/user-attachments/assets/1e6a51ac-de49-4c2b-9e57-d961acce6d56" />
 
-#Trello(Basico)
+#Trello(Basico):
 https://trello.com/invite/b/692662b555f6147abc90ec72/ATTI5f02f0096b9257d22476120bccac6abe43ADD121/studyhub
